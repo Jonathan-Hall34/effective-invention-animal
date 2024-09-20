@@ -16,4 +16,4 @@ $("#btnGetAnimal").on("click", function(){
   //next, also tell spirit animal 
 } )
 
-let spiritAnimals = ["🦅","🌵","🐟","🐛","👾","🦆","file not found"]
+let spiritAnimals = ["🦅","🦜","🐬","🦥","🐶","🦆","file not found"]
